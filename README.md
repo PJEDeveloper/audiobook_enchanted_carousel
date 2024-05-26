@@ -1,2 +1,2 @@
-# audiobooks
-Repository for .mp3 files containing the audiobooks for web application front-end
+# audiobook for The Enchanted Carousel
+Repository for .mp3 files containing the audiobook
